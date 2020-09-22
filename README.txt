@@ -19,8 +19,8 @@ GUI-FRAMEWORK
 Tkinter
 
 
-RUN ON
-terminal
+TO RUN PROGRAM
+python weatherapi.py
 
 
 WEATHER API USED
