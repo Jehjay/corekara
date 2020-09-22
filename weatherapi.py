@@ -264,7 +264,7 @@ def weatherAPI():
 	frame_4.grid(row=3, column=0, columnspan=2, pady=(10,10), padx=(10,0))
 
 	
-	# visualise map 
+	# VISUALISE MAP
 	map1 = folium.Map(
     location=[latitude,longitude],
     tiles='cartodbpositron',
