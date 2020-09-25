@@ -1,30 +1,41 @@
 # corekara
-weather GUI interface
+## weather GUI interface
 
-DOWNLOADS
+__<center>INSTALLATION</center>__
 
-make sure to have the following modules installed
+Ensure to install any import not already installed.
 
-1. pillow (python image library) 	>>> pip install pillow
-2. geopandas  				>>> pip install geopandas
-3. geopy 				>>> pip install geopy
-4. foliam				>>> conda install -c conda-forge folium
+- pillow, python image library
 
-NOTE: all imports where used, make sure to install any import not already installed.
+`pip install pillow`
 
-GUI-FRAMEWORK
+- geopandas
+
+`pip install geopandas`
+
+- geopy
+
+`pip install geopy`
+
+- foliam, create a map of any location in the world using latitude and longitude values
+
+`conda install -c conda-forge folium`
+
+
+
+<b>GUI-FRAMEWORK</b>
 
 Tkinter
 
 
-TO RUN PROGRAM
+<b>TO RUN PROGRAM<b>
 
 python weatherapi.py
 
 
-WEATHER API USED
+<b>WEATHER API USED</b>
 
-weatherbit API 
+[weatherbit API](https://www.weatherbit.io/api/weather-forecast-16-day)
 
-(https://www.weatherbit.io/api/weather-forecast-16-day)
+
 
