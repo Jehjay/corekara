@@ -22,18 +22,15 @@ Ensure to install any import not already installed.
 `conda install -c conda-forge folium`
 
 
-
-<b>GUI-FRAMEWORK</b>
+__GUI-FRAMEWORK</b__
 
 Tkinter
 
-
-<b>TO RUN PROGRAM<b>
+__TO RUN PROGRAM__
 
 python weatherapi.py
 
-
-<b>WEATHER API USED</b>
+__WEATHER API USED__
 
 [weatherbit API](https://www.weatherbit.io/api/weather-forecast-16-day)
 
