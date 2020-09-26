@@ -1,5 +1,5 @@
 # corekara
-## weather GUI interface
+## weather app GUI.
 
 __<center>INSTALLATIONS</center>__
 
