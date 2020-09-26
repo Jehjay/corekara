@@ -1,11 +1,11 @@
 # corekara
 ## weather GUI interface
 
-__<center>INSTALLATION</center>__
+__<center>INSTALLATIONS</center>__
 
 Ensure to install any import not already installed.
 
-- pillow, python image library
+- pillow, is a python image library.
 
 `pip install pillow`
 
@@ -17,14 +17,14 @@ Ensure to install any import not already installed.
 
 `pip install geopy`
 
-- foliam, create a map of any location in the world using latitude and longitude values
+- folium, helps you create a map of any location in the world using latitude and longitude values.
 
 `conda install -c conda-forge folium`
 
 
-__GUI-FRAMEWORK</b__
+__GUI-FRAMEWORK__
 
-Tkinter
+__*Tkinter*__ was used to create a GUI interface for the app.
 
 __TO RUN PROGRAM__
 
