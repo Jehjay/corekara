@@ -28,7 +28,9 @@ __*Tkinter*__ was used to create a GUI interface for the app.
 
 __TO RUN PROGRAM__
 
-python weatherapi.py
+Open the terminal and run the following command:
+
+`python weatherapi.py`
 
 __WEATHER API USED__
 
