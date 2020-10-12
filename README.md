@@ -1,5 +1,5 @@
-# weather app
-## GUI.
+# weather app 
+## Graphical User Interface
 
 __<center>INSTALLATIONS</center>__
 
