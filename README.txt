@@ -1,14 +1,14 @@
-DOWNLOADS
-make sure to have the following modules installed
+LIBRARIES TO INSTALL
+make sure to have the following libraries installed
 1. pillow (python image library) 	>>> pip install pillow
 2. geopandas  				>>> pip install geopandas
 3. geopy 				>>> pip install geopy
 4. foliam				>>> conda install -c conda-forge folium
 
-NOTE: all imports where used, make sure to install any import not already installed.
+NOTE: all libraries where used, make sure to install any libraries not already installed.
 
 MAIN PROGRAMMING LANGUAGE
-python 3.8.3 managed on Ananconda 4.8.3
+python 3.8.3 managed on Anaconda 4.8.3
 
 
 OS
