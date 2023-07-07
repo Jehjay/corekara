@@ -15,8 +15,8 @@ OS
 ubuntu 18.04.5 LTS
 
 
-GUI-FRAMEWORK
-Tkinter
+GUI-TOOLKIT
+tkinter
 
 
 TO RUN PROGRAM
