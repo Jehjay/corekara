@@ -1,11 +1,11 @@
 # weather app 
 ## Graphical User Interface
 
-__<center>INSTALLATIONS</center>__
+__<center>LIBRARIES INSTALLATIONS</center>__
 
-Ensure to install any import not already installed.
+Please make sure to install any libraries not already installed.
 
-- pillow, is a python image library.
+- pillow, is a Python image library.
 
 `pip install pillow`
 
@@ -22,11 +22,11 @@ Ensure to install any import not already installed.
 `conda install -c conda-forge folium`
 
 
-__GUI-FRAMEWORK__
+__GUI-TOOLKIT__
 
-__*Tkinter*__ was used to create a GUI interface for the app.
+__*tkinter*__ was used to create the GUI interface for the app.
 
-__TO RUN PROGRAM__
+__TO RUN THE PROGRAM__
 
 Open the terminal and run the following command:
 
