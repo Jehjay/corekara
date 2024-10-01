@@ -1,6 +1,14 @@
 # weather app 
 ## Graphical User Interface
 
+__GUI-TOOLKIT__
+
+__*tkinter*__ was used to create the GUI interface for the app.
+
+__WEATHER API USED__
+
+[weatherbit API](https://www.weatherbit.io/api/weather-forecast-16-day)
+
 > [!NOTE]
 > Please make sure to install any libraries not already installed.
 
@@ -30,11 +38,6 @@ pip install geopy
 conda install -c conda-forge folium
 ```
 
-
-__GUI-TOOLKIT__
-
-__*tkinter*__ was used to create the GUI interface for the app.
-
 __TO RUN THE PROGRAM__
 
 Open the terminal and run the following command:
@@ -42,10 +45,6 @@ Open the terminal and run the following command:
 ```python
 python weatherapi.py
 ```
-
-__WEATHER API USED__
-
-[weatherbit API](https://www.weatherbit.io/api/weather-forecast-16-day)
 
 
 
