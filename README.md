@@ -1,25 +1,34 @@
 # weather app 
 ## Graphical User Interface
 
-__<center>LIBRARIES INSTALLATIONS</center>__
+> [!NOTE]
+> Please make sure to install any libraries not already installed.
 
-Please make sure to install any libraries not already installed.
+__<center>LIBRARIES INSTALLATIONS</center>__
 
 - pillow, is a Python image library.
 
-`pip install pillow`
+```python
+pip install pillow
+```
 
 - geopandas
 
-`pip install geopandas`
+```python
+pip install geopandas
+```
 
 - geopy
 
-`pip install geopy`
+```python
+pip install geopy
+```
 
 - folium, helps you create a map of any location in the world using latitude and longitude values.
 
-`conda install -c conda-forge folium`
+```python
+conda install -c conda-forge folium
+```
 
 
 __GUI-TOOLKIT__
@@ -30,7 +39,9 @@ __TO RUN THE PROGRAM__
 
 Open the terminal and run the following command:
 
-`python weatherapi.py`
+```python
+python weatherapi.py
+```
 
 __WEATHER API USED__
 
