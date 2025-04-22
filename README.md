@@ -47,4 +47,5 @@ python weatherapi.py
 ```
 
 
-
+## **Developer**
+[Jehoram Mwila](https://www.linkedin.com/in/jehoram-m-1b1772124/), Data and MLOps Engineer
